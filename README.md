@@ -2,7 +2,7 @@
 
 This repository contains issues related to the management of all group projects along with weekly progress records for all group members and collaborators.
 
-Check out the [roadmap](https://github.com/satra/ProjectManagementTemplate/projects/1) for more information.
+Check out the [roadmap](https://github.com/satra/RIG/projects/1) for more information.
 
 ## Working open
 
