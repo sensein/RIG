@@ -2,7 +2,7 @@
 
 We try to work as openly as possible. If you are interested in these problems or have solved any of these problems please contact us. For us a solution typically implies available data, code, and/or replicated results.
 
-[Click here for a current listing of projects.]()
+[Click here for a current listing of projects.](http://satra.cogitatum.org/projects.html)
 
 <!--
 ## Problem X
