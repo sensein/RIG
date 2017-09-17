@@ -2,6 +2,9 @@
 
 We try to work as openly as possible. If you are interested in these problems or have solved any of these problems please contact us. For us a solution typically implies available data, code, and/or replicated results.
 
+[Click here for a current listing of projects.]()
+
+<!--
 ## Problem X
 
 **Summary of question/problem: **
@@ -15,3 +18,4 @@ We try to work as openly as possible. If you are interested in these problems or
 **Issue Link to discuss: ** https://example.org
 
 **Estimated timeline: ** By end of 2233
+-->

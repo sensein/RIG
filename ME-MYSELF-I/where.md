@@ -1,14 +1,41 @@
-# Where's Waldo
+# Where's Satra
 
-This file is a big list of dates so you can track where **[WALDO]** is as s/he zooms all over the place!
+This file is a big list of dates so you can track where Satra is.
 
 ## Table of contents
 
-**20XX**
+**2017**
 
-* [Month](#Month-20XX)
+* [September](#September-2017)
+* [October](#October-2017)
+* [November](#November-2017)
+* [December](#December-2017)
 
-### Month 20XX
+### September 2017
 
 Date | Day   | City, Country          | Event
 ---- | ----- | ---------------------- | -----
+3-9|Sun-Sat|Seattle, USA|[Neurohackweek](https://neurohackweek.github.io/nhw2017/)
+15|Fri|Boston, USA | [Talk at MGH](https://www.dropbox.com/s/m8nczo0yusrkk87/20170915_MGH-Ghosh.pdf?dl=0)
+21-22|Thu-Fri|Pittsburgh, USA| Talk
+
+### October 2017
+
+Date | Day   | City, Country          | Event
+---- | ----- | ---------------------- | -----
+6-7|Fri-Sat|BOS, USA|SHBT 25th Anniversary
+12-13|Thu-Fri|Tampa, USA|NIH Review
+
+### November 2017
+
+Date | Day   | City, Country          | Event
+---- | ----- | ---------------------- | -----
+6-7|Mon-Tue|Waltham, USA|McLean Technology in Psychiatry Summit
+9-11|Thu-Sat|Washington DC, USA| [ReproNim Training](https://tinyurl.com/repronim-sfn17)
+
+### December 2017
+
+Date | Day   | City, Country          | Event
+---- | ----- | ---------------------- | -----
+14-19|Thu-Tue|Leipzig, Germany|Connectivity workshop+brainhack
+20-2(jan)| -- |Europe|Vacation
