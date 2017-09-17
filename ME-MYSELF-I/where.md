@@ -6,10 +6,10 @@ This file is a big list of dates so you can track where Satra is.
 
 **2017**
 
-* [September](#September-2017)
-* [October](#October-2017)
-* [November](#November-2017)
-* [December](#December-2017)
+* [September](#september-2017)
+* [October](#october-2017)
+* [November](#november-2017)
+* [December](#december-2017)
 
 ### September 2017
 
