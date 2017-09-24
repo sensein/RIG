@@ -17,7 +17,7 @@ Date | Day   | City, Country          | Event
 ---- | ----- | ---------------------- | -----
 3-9|Sun-Sat|Seattle, USA|[Neurohackweek](https://neurohackweek.github.io/nhw2017/)
 15|Fri|Boston, USA | [Talk at MGH](https://www.dropbox.com/s/m8nczo0yusrkk87/20170915_MGH-Ghosh.pdf?dl=0)
-21-22|Thu-Fri|Pittsburgh, USA| Talk
+21-22|Thu-Fri|Pittsburgh, USA| [Talk at DBI Colloqium](https://www.dropbox.com/s/mhfnw2z7idkz856/20170922-Pitt-Ghosh-stable.pdf?dl=0)
 
 ### October 2017
 

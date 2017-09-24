@@ -1,3 +1,12 @@
+# Group member's project repos
+
+[Dorota Jarecka](https://github.com/djarecka/mit_diary)
+[Jakub Kaczmarzyk](https://github.com/kaczmarj/ProjectManagement)
+[Kevin Sitek](https://github.com/sitek/PhD-projects)
+[Mathias Goncalves](https://github.com/mgxd/ProjectManagement)
+[Shilpa Chakravartula](https://github.com/shilpchk/ProjectManagementTemplate)
+[Smruti Padhy](https://github.com/smpadhy/ProjectManagement)
+
 # Group Project Management Template
 
 This repository contains issues related to the management of all group projects along with weekly progress records for all group members and collaborators.
@@ -16,11 +25,11 @@ If you're new to the group, check out the [Onboarding repository](https://github
 
 ## License and code of conduct
 
-All content in this repository is [openly licensed with a CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), which means you're free to use the materials and remix them so long as you ***credit the source***. 
+All content in this repository is [openly licensed with a CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), which means you're free to use the materials and remix them so long as you ***credit the source***.
 
-For example: 
+For example:
 
-> This template is partially derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr. Kirstie Whitaker and the Whitaker Lab team, used under CC BY 4.0. 
+> This template is partially derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr. Kirstie Whitaker and the Whitaker Lab team, used under CC BY 4.0.
 
 More on CC BY 4.0 licensing can be found at [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
