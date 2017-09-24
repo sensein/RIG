@@ -1,6 +1,52 @@
 # Weekly Update
 
+* [22nd September 2017](#date-22nd-september-2017)
 * [15th September 2017](#date-15th-september-2017)
+
+### Date: 22nd September 2017
+
+#### Who did I help this week?
+
+* I helped Russ debug some issues with heudiconv
+* I worked with Xavier on clustering of gradient maps
+* I helped folks at BWH CNOC with a grant application
+
+#### Who helped me this week?
+
+* CNOC folks (Maya and Vassilis) helped with creating a draft of a proposal
+* Anisha helped Smruti and myself to reorient ourselves around form editing
+* Toni (from Pittsburgh) helped with coordinating my visit.
+* Mario has helped over the last month coordinate an HPC purchase for openmind. Esme helped start the requisition.
+* Alejandro and Tal helped look into administrative pieces around a multi-project code sprint in Austin in January.
+
+#### What did I achieve?
+
+* I had meetings with Xavier, Smruti, Jakub, Dorota on various topics
+* I had a meeting with the visualization team from Neurohackweek and planned a path forward. Also submitted a [pull request for a streamline visualization widget](https://github.com/nipy/niwidgets/pull/4)
+* We had NIDM, NIDM-Workflows, and ReproNim training meetings
+* I had a meeting with the medulina team to determine the intent of the meningioma dataset, how these projects can collaborate, and an architecture for closing the loops
+* I gave a talk on machine learning in psychiatry at the Department of Biomedical Informatics at University of Pittsburgh
+* I reviewed and accepted a few Nipype pull-requests
+* I created a set of Resources that we will be generating for ReproNim (Brainverse, Testkraken, )
+
+#### What did I struggle with?
+
+* Trying to find time to catch up on emails and work on the grant application
+
+#### What would I like to work on next week?
+
+* [Carried over] Make a plan for the rest of this year
+* [Carried over] Review Phil's paper
+* [Carried over] Work on the grant application and grant reviews
+* Review Nipype tutorials and pull-requests
+
+#### Where do I need help?
+
+* Review Nipype issues, pull-requests, and questions and monitoring various communication channels (Github, Gitter, Slack, Neurostars)
+
+#### Any other topics
+
+I had conversations with folks at Pittsburgh about ways to collect useful sensor data (blood pressure, glucose and some life events) from individuals. I am thinking of an app that collects such data on individuals smartphones, but uploads anonymously to a server when trigerred.
 
 ### Date: 15th September 2017
 
