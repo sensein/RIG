@@ -1,11 +1,11 @@
 # Group member's project repos
 
-[Dorota Jarecka](https://github.com/djarecka/mit_diary)
-[Jakub Kaczmarzyk](https://github.com/kaczmarj/ProjectManagement)
-[Kevin Sitek](https://github.com/sitek/PhD-projects)
-[Mathias Goncalves](https://github.com/mgxd/ProjectManagement)
-[Shilpa Chakravartula](https://github.com/shilpchk/ProjectManagementTemplate)
-[Smruti Padhy](https://github.com/smpadhy/ProjectManagement)
+- [Dorota Jarecka](https://github.com/djarecka/mit_diary)
+- [Jakub Kaczmarzyk](https://github.com/kaczmarj/ProjectManagement)
+- [Kevin Sitek](https://github.com/sitek/PhD-projects)
+- [Mathias Goncalves](https://github.com/mgxd/ProjectManagement)
+- [Shilpa Chakravartula](https://github.com/shilpchk/ProjectManagementTemplate)
+- [Smruti Padhy](https://github.com/smpadhy/ProjectManagement)
 
 # Group Project Management Template
 
