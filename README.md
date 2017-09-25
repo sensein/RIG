@@ -4,7 +4,7 @@
 - [Jakub Kaczmarzyk](https://github.com/kaczmarj/ProjectManagement)
 - [Kevin Sitek](https://github.com/sitek/PhD-projects)
 - [Mathias Goncalves](https://github.com/mgxd/ProjectManagement)
-- [Shilpa Chakravartula](https://github.com/shilpchk/ProjectManagementTemplate)
+- [Shilpa Chakravartula](https://github.com/shilpchk/ProjectManagement)
 - [Smruti Padhy](https://github.com/smpadhy/ProjectManagement)
 
 # Group Project Management Template
