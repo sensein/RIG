@@ -1,7 +1,51 @@
 # Weekly Update
 
+* [29th September 2017](#date-29th-september-2017)
 * [22nd September 2017](#date-22nd-september-2017)
 * [15th September 2017](#date-15th-september-2017)
+
+### Date: 29th September 2017
+
+#### Who did I help this week?
+
+* I helped Sarah and Tanya get oriented around their group rotation
+* I helped Sara on some analysis questions
+* I helped Zhenghan with pointers on a few topics
+
+#### Who helped me this week?
+
+* Jon helped me this week to better understand some data they collected, and with upcoming lectures
+* Chris helped out with several reviews
+* Meryem helped me understand fNIRS processing
+
+#### What did I achieve?
+
+* I had meetings with Xavier, Smruti, Shilpa, Mathias, Yarik, Tanya, Sarah on various topics
+* We had NIDM, NIDM-Workflows, and ReproNim meetings
+* I reviewed and accepted a few Nipype pull-requests and an ongoing PR on refactoring the resource monitor
+* I attended the SHBT end of summer talks
+* I met with Diego to talk about voice markers in psychiatry
+
+#### What did I struggle with?
+
+* Trying to find time to catch up on emails and work on the grant application
+
+#### What would I like to work on next week?
+
+* [Carried over] Make a plan for the rest of this year
+* [Carried over] Review Phil's paper
+* [Carried over] Work on the grant application and grant reviews
+* Review Nipype tutorials and pull-requests
+* Combine and restart XNAT + NIH toolbox VM
+
+#### Where do I need help?
+
+* Review Nipype issues, pull-requests, and questions and monitoring various communication channels (Github, Gitter, Slack, Neurostars)
+
+#### Any other topics
+
+None
+
 
 ### Date: 22nd September 2017
 
