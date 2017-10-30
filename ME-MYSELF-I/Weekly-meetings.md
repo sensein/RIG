@@ -1,11 +1,50 @@
 # Weekly Update
 
+* [27th October 2017](#date-27th-october-2017)
 * [20th October 2017](#date-20th-october-2017)
 * [13th October 2017](#date-13th-october-2017)
 * [6th October 2017](#date-6th-october-2017)
 * [29th September 2017](#date-29th-september-2017)
 * [22nd September 2017](#date-22nd-september-2017)
 * [15th September 2017](#date-15th-september-2017)
+
+### Date: 27th October 2017
+
+#### Who did I help this week?
+
+* Helped clarify some directions of the traitlets effort with Dorota 
+
+#### Who helped me this week?
+
+* Mathias helped coordinate a meeting and got started on some structural analysis
+
+#### What did I achieve?
+
+* I had meetings with Kevin (MEEI), Smruti, Mario, Dorota, Abhi, Jakub, NDA on various topics
+* I reviewed and accepted a few Nipype PRs
+* I conducted some interviews
+
+#### What did I struggle with?
+
+* Getting to a few things on the list
+
+#### What would I like to work on next week?
+
+* [Carried over] Make a plan for the rest of this year
+* [Carried over] Review Phil's paper
+* [Carried over] Combine and restart XNAT + NIH toolbox VM
+* [Carried over] Implement notebook for FNIRS analysis
+* Review Nipype tutorials and pull-requests
+* Work on MIT-IBM project draft
+* Finish ITP talk
+
+#### Where do I need help?
+
+* Review Nipype issues, pull-requests, and questions and monitoring various communication channels (Github, Gitter, Slack, Neurostars)
+
+#### Any other topics
+
+None
 
 ### Date: 20th October 2017
 
