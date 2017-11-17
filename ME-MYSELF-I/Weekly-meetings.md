@@ -1,5 +1,8 @@
 # Weekly Update
 
+* [17th November 2017](#date-17th-november-2017)
+* [10th November 2017](#date-10th-november-2017)
+* [3rd November 2017](#date-3rd-november-2017)
 * [27th October 2017](#date-27th-october-2017)
 * [20th October 2017](#date-20th-october-2017)
 * [13th October 2017](#date-13th-october-2017)
@@ -8,11 +11,126 @@
 * [22nd September 2017](#date-22nd-september-2017)
 * [15th September 2017](#date-15th-september-2017)
 
+### Date: 17th November 2017
+
+#### Who did I help this week?
+
+* None
+
+#### Who helped me this week?
+
+* None
+
+#### What did I achieve?
+
+* I had meetings with Elliott, Kawin, Smruti, Stefan, IBM folks on various topics
+* Kevin's DAC meeting
+* Submitted MIT-IBM project application.
+
+#### What did I struggle with?
+
+* Getting to a few things on the list
+
+#### What would I like to work on next week?
+
+* [Carried over] Make a plan for the rest of this year
+* [Carried over] Review Phil's paper
+* [Carried over] Combine and restart XNAT + NIH toolbox VM
+* [Carried over] Implement notebook for FNIRS analysis
+* Review Nipype tutorials and pull-requests
+
+#### Where do I need help?
+
+* Review Nipype issues, pull-requests, and questions and monitoring various communication channels (Github, Gitter, Slack, Neurostars)
+
+#### Any other topics
+
+None
+
+### Date: 10th November 2017
+
+#### Who did I help this week?
+
+* None
+
+#### Who helped me this week?
+
+* Dorota helped run Slack office hours for repronim workshop
+
+#### What did I achieve?
+
+* I had meetings with Elliott, Tanya, Sarah, IBM folks on various topics
+* I reviewed and accepted a few Nipype PRs
+* Attended the Mclean ITP conference and gave a talk
+* Worked on project application.
+* Repronim workshop in DC
+
+#### What did I struggle with?
+
+* Getting to a few things on the list
+
+#### What would I like to work on next week?
+
+* [Carried over] Make a plan for the rest of this year
+* [Carried over] Review Phil's paper
+* [Carried over] Combine and restart XNAT + NIH toolbox VM
+* [Carried over] Implement notebook for FNIRS analysis
+* Review Nipype tutorials and pull-requests
+* Work on MIT-IBM project draft
+
+#### Where do I need help?
+
+* Review Nipype issues, pull-requests, and questions and monitoring various communication channels (Github, Gitter, Slack, Neurostars)
+
+#### Any other topics
+
+None
+
+### Date: 3rd November 2017
+
+#### Who did I help this week?
+
+* Slack office hours for repronim workshop
+
+#### Who helped me this week?
+
+* None
+
+#### What did I achieve?
+
+* I had meetings with Qasim, Vijay, IBM folks on various topics
+* I reviewed and accepted a few Nipype PRs
+* Finished ITP talk
+* Worked on project application.
+* Repronim run through
+
+#### What did I struggle with?
+
+* Getting to a few things on the list
+
+#### What would I like to work on next week?
+
+* [Carried over] Make a plan for the rest of this year
+* [Carried over] Review Phil's paper
+* [Carried over] Combine and restart XNAT + NIH toolbox VM
+* [Carried over] Implement notebook for FNIRS analysis
+* Review Nipype tutorials and pull-requests
+* Work on MIT-IBM project draft
+
+#### Where do I need help?
+
+* Review Nipype issues, pull-requests, and questions and monitoring various communication channels (Github, Gitter, Slack, Neurostars)
+
+#### Any other topics
+
+None
+
+
 ### Date: 27th October 2017
 
 #### Who did I help this week?
 
-* Helped clarify some directions of the traitlets effort with Dorota 
+* Helped clarify some directions of the traitlets effort with Dorota
 
 #### Who helped me this week?
 

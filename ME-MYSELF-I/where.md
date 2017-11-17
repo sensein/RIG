@@ -37,5 +37,12 @@ Date | Day   | City, Country          | Event
 
 Date | Day   | City, Country          | Event
 ---- | ----- | ---------------------- | -----
-14-19|Thu-Tue|Leipzig, Germany|Connectivity workshop+brainhack
-20-2(jan)| -- |Europe|Vacation
+14-22|Thu-Fri|Leipzig, Germany|Connectivity workshop+brainhack
+22-2(jan)| -- | -- |Vacation
+
+### January 2018
+
+Date | Day   | City, Country          | Event
+---- | ----- | ---------------------- | -----
+8-9|Mon-Tue|Boston,MA|ReproNim EAB meeting
+15-19|Mon-Fri|Austin, TX|Code Rodeo
