@@ -30,7 +30,7 @@ Date | Day   | City, Country          | Event
 
 Date | Day   | City, Country          | Event
 ---- | ----- | ---------------------- | -----
-6-7|Mon-Tue|Waltham, USA|McLean Technology in Psychiatry Summit
+6-7|Mon-Tue|Waltham, USA|McLean Technology in Psychiatry Summit - [Talk](https://www.dropbox.com/s/fvrpj3t3d75e59m/20171106-ITP-Ghosh-stable.pdf?dl=0)
 9-11|Thu-Sat|Washington DC, USA| [ReproNim Training](https://tinyurl.com/repronim-sfn17)
 
 ### December 2017
