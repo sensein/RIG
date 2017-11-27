@@ -1,5 +1,6 @@
 # Weekly Update
 
+* [24th November 2017](#date-24th-november-2017)
 * [17th November 2017](#date-17th-november-2017)
 * [10th November 2017](#date-10th-november-2017)
 * [3rd November 2017](#date-3rd-november-2017)
@@ -10,6 +11,44 @@
 * [29th September 2017](#date-29th-september-2017)
 * [22nd September 2017](#date-22nd-september-2017)
 * [15th September 2017](#date-15th-september-2017)
+
+### Date: 24th November 2017
+
+#### Who did I help this week?
+
+* None
+
+#### Who helped me this week?
+
+* Mathias is helping with the Nipype release
+* Alejandro and Tal setup Code Rodeo announcement
+* Rick is looking into XNAT VM setup
+
+#### What did I achieve?
+
+* I had meetings with students and Xavier on various topics
+* Met with Chris G and M, Oscar and Ross around Nipype topics
+* Tried to reinstantiate the XNAT VM but without success
+
+#### What did I struggle with?
+
+* Getting to a few things on the list
+
+#### What would I like to work on next week?
+
+* [Carried over] Make a plan for the rest of this year
+* [Carried over] Review Phil's paper
+* [Carried over] Combine and restart XNAT + NIH toolbox VM
+* [Carried over] Implement notebook for FNIRS analysis
+* Review Nipype tutorials and pull-requests
+
+#### Where do I need help?
+
+* Review Nipype issues, pull-requests, and questions and monitoring various communication channels (Github, Gitter, Slack, Neurostars)
+
+#### Any other topics
+
+None
 
 ### Date: 17th November 2017
 
