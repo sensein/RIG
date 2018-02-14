@@ -11,6 +11,21 @@ This file is a big list of dates so you can track where Satra is.
 * [November](#november-2017)
 * [December](#december-2017)
 
+**2018**
+
+* [January](#january-2018)
+* [February](#february-2018)
+* [March](#march-2018)
+* [April](#march-2018)
+* [May](#march-2018)
+* [June](#march-2018)
+* [July](#march-2018)
+* [August](#march-2018)
+* [September](#september-2018)
+* [October](#october-2018)
+* [November](#november-2018)
+* [December](#december-2018)
+
 ### September 2017
 
 Date | Day   | City, Country          | Event
@@ -46,3 +61,73 @@ Date | Day   | City, Country          | Event
 ---- | ----- | ---------------------- | -----
 8-9|Mon-Tue|Boston,MA|ReproNim EAB meeting
 15-19|Mon-Fri|Austin, TX|Code Rodeo
+
+### February 2018
+
+Date | Day   | City, Country          | Event
+---- | ----- | ---------------------- | -----
+7-9|Wed-Fri|Washington DC|NIH Review
+
+### March 2018
+
+Date | Day   | City, Country          | Event
+---- | ----- | ---------------------- | -----
+21-23|Wed-Fri|Montreal, Canada|Open Infrastructures in Biomedicine
+
+### April 2018
+
+Date | Day   | City, Country          | Event
+---- | ----- | ---------------------- | -----
+8-10|Sun-Tue|Washington DC|Brain Behavior Quantification + Brain Initiative
+18-21|Wed-Sat|Seattle, WA|Sage Assembly
+24|Tue|Boston, MA|Talk at MEE
+
+### May 2018
+
+Date | Day   | City, Country          | Event
+---- | ----- | ---------------------- | -----
+2-5|Wed-Sat|Boston, MA|Brainhack global
+
+### June 2018
+
+Date | Day   | City, Country          | Event
+---- | ----- | ---------------------- | -----
+6-25|Wed-Mon|Singapore, India|OHBM, vacation
+
+### July 2018
+
+Date | Day   | City, Country          | Event
+---- | ----- | ---------------------- | -----
+3-16|Tue-Mon|Belgium|vacation
+
+### August 2018
+
+Date | Day   | City, Country          | Event
+---- | ----- | ---------------------- | -----
+3-7|Fri-Tue|Seattle, WA|Neurohackademy
+8-10|Wed-Fri|Montral, Canada|Neuroinformatics Congress
+
+### September 2018
+
+Date | Day   | City, Country          | Event
+---- | ----- | ---------------------- | -----
+
+### October 2018
+Date | Day   | City, Country          | Event
+---- | ----- | ---------------------- | -----
+TBA|TBA|TBA|Nipype workshop
+
+### November 2018
+Date | Day   | City, Country          | Event
+---- | ----- | ---------------------- | -----
+TBA|TBA|San Diego, CA|ReproNim training
+
+### December 2018
+Date | Day   | City, Country          | Event
+---- | ----- | ---------------------- | -----
+TBA|TBA|India|vacation
+
+### January 2019
+Date | Day   | City, Country          | Event
+---- | ----- | ---------------------- | -----
+TBA|TBA|Cambridge, MA|ReproNim SAB
