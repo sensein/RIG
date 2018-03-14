@@ -98,7 +98,7 @@ Date | Day   | City, Country          | Event
 
 Date | Day   | City, Country          | Event
 ---- | ----- | ---------------------- | -----
-3-16|Tue-Mon|Belgium|vacation
+3-16|Tue-Mon|Europe|vacation
 
 ### August 2018
 
@@ -112,6 +112,7 @@ Date | Day   | City, Country          | Event
 
 Date | Day   | City, Country          | Event
 ---- | ----- | ---------------------- | -----
+TBA|TBA|TBA|AFNI Hackathon
 
 ### October 2018
 Date | Day   | City, Country          | Event
