@@ -106,6 +106,7 @@ Date | Day   | City, Country          | Event
 ---- | ----- | ---------------------- | -----
 3-7|Fri-Tue|Seattle, WA|Neurohackademy
 8-10|Wed-Fri|Montral, Canada|Neuroinformatics Congress
+20-25|Mon-Sat|Stanford|BIDS derivatives
 
 ### September 2018
 
