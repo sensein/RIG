@@ -99,12 +99,13 @@ Date | Day   | City, Country          | Event
 Date | Day   | City, Country          | Event
 ---- | ----- | ---------------------- | -----
 3-16|Tue-Mon|Europe|vacation
+22-24|Sun-Tue|Washington DC|global brain initiatives workshop
 
 ### August 2018
 
 Date | Day   | City, Country          | Event
 ---- | ----- | ---------------------- | -----
-3-7|Fri-Tue|Seattle, WA|Neurohackademy
+1-7|Wed-Tue|Seattle, WA|Neurohackademy
 8-10|Wed-Fri|Montral, Canada|Neuroinformatics Congress
 20-25|Mon-Sat|Stanford|BIDS derivatives
 
@@ -112,7 +113,7 @@ Date | Day   | City, Country          | Event
 
 Date | Day   | City, Country          | Event
 ---- | ----- | ---------------------- | -----
-TBA|TBA|TBA|AFNI Hackathon
+10-14|Mon-Fri|Washington DC|AFNI Hackathon
 
 ### October 2018
 Date | Day   | City, Country          | Event
