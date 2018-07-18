@@ -118,6 +118,7 @@ Date | Day   | City, Country          | Event
 ### October 2018
 Date | Day   | City, Country          | Event
 ---- | ----- | ---------------------- | -----
+4-5|Thu-Fri|Washington, DC|Review
 TBA|TBA|TBA|Nipype workshop
 
 ### November 2018
